@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "472743697903",
+    "project_id": "jetvpn-aedfc",
+    "storage_bucket": "jetvpn-aedfc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:472743697903:android:8ea7da822f743057c02a1a",
+        "android_client_info": {
+          "package_name": "com.example.vpn_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyJ_v2rn5w1fbvn0UQe6UkdZd8qz0hEas"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
